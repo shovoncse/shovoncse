@@ -2,7 +2,7 @@
   <img src="shovan.svg" alt="Shovan Das" />
 </div>
 
-## Hey! Nice to see you. 🙏😇
+## Hey! Nice to see you 🙏😇
 Studying Information Technology at [OAMK](https://www.oamk.fi/)   from August 2022      
 Former Full-Stack Developer (Remote) at [Brillmark LLC](https://www.brillmark.com/)   from April 2022 to August 2023                                                                                   
 Former Backend Developer (Remote) at [BIT DEPOSIT](https://bitdeposit.com/)   from March 2022 to Sept 2022                                                             
