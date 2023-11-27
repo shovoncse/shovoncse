@@ -2,43 +2,11 @@
   <img src="shovan.svg" alt="Shovan Das" />
 </div>
 
-## Hey! Nice to see you 🙏😇
-Studying Information Technology at [OAMK](https://www.oamk.fi/)   from August 2022      
-Former Full-Stack Developer (Remote) at [Brillmark LLC](https://www.brillmark.com/)   from April 2022 to August 2023                                                                                   
-Former Backend Developer (Remote) at [BIT DEPOSIT](https://bitdeposit.com/)   from March 2022 to Sept 2022                                                             
-Former Programmer at [ANDIT](https://andit.co/)   from April 2017 to Dec 2021                                                                                                                                              
-Studied Computer Science & Engineering (CSE) at [BUBT](https://bubt.edu.bd/)   from June 2014 to Feb 2018                                                               
-Ping me here... [LinkedIn](https://www.linkedin.com/in/shovoncse/)
+## Hey! I'm so glad you're here! 🙏😇
+O̷v̷e̷r̷ ̷t̷h̷e̷ ̷p̷a̷s̷t̷ ̷f̷i̷v̷e̷ ̷y̷e̷a̷r̷s̷,̷ ̷I̷'̷v̷e̷ ̷g̷a̷i̷n̷e̷d̷ ̷e̷x̷t̷e̷n̷s̷i̷v̷e̷ ̷e̷x̷p̷e̷r̷i̷e̷n̷c̷e̷ ̷i̷n̷ ̷v̷a̷r̷i̷o̷u̷s̷ ̷w̷e̷b̷ ̷t̷e̷c̷h̷n̷o̷l̷o̷g̷i̷e̷s̷ ̷a̷n̷d̷ ̷p̷r̷o̷g̷r̷a̷m̷m̷i̷n̷g̷ ̷l̷a̷n̷g̷u̷a̷g̷e̷s̷,̷ ̷w̷o̷r̷k̷i̷n̷g̷ ̷w̷i̷t̷h̷ ̷t̷h̷r̷e̷e̷ ̷c̷o̷m̷p̷a̷n̷i̷e̷s̷ ̷a̷n̷d̷ ̷a̷s̷ ̷a̷ ̷f̷r̷e̷e̷l̷a̷n̷c̷e̷ ̷d̷e̷v̷e̷l̷o̷p̷e̷r̷.̷
+̷I̷ ̷p̷o̷s̷s̷e̷s̷s̷ ̷a̷ ̷c̷o̷m̷p̷r̷e̷h̷e̷n̷s̷i̷v̷e̷ ̷s̷k̷i̷l̷l̷s̷e̷t̷ ̷e̷n̷c̷o̷m̷p̷a̷s̷s̷i̷n̷g̷ ̷v̷a̷r̷i̷o̷u̷s̷ ̷f̷r̷o̷n̷t̷-̷e̷n̷d̷ ̷a̷n̷d̷ ̷b̷a̷c̷k̷-̷e̷n̷d̷ ̷t̷e̷c̷h̷n̷o̷l̷o̷g̷i̷e̷s̷,̷ ̷d̷a̷t̷a̷b̷a̷s̷e̷ ̷m̷a̷n̷a̷g̷e̷m̷e̷n̷t̷,̷ ̷w̷e̷b̷ ̷d̷e̷v̷e̷l̷o̷p̷m̷e̷n̷t̷ ̷f̷r̷a̷m̷e̷w̷o̷r̷k̷s̷,̷ ̷v̷e̷r̷s̷i̷o̷n̷ ̷c̷o̷n̷t̷r̷o̷l̷ ̷s̷y̷s̷t̷e̷m̷s̷,̷ ̷A̷P̷I̷ ̷d̷e̷s̷i̷g̷n̷,̷ ̷s̷e̷r̷v̷e̷r̷ ̷d̷e̷p̷l̷o̷y̷m̷e̷n̷t̷,̷ ̷r̷e̷s̷p̷o̷n̷s̷i̷v̷e̷ ̷d̷e̷s̷i̷g̷n̷,̷ ̷R̷E̷S̷T̷f̷u̷l̷ ̷s̷e̷r̷v̷i̷c̷e̷s̷,̷ ̷s̷e̷c̷u̷r̷i̷t̷y̷ ̷p̷r̷i̷n̷c̷i̷p̷l̷e̷s̷,̷ ̷a̷g̷i̷l̷e̷ ̷m̷e̷t̷h̷o̷d̷o̷l̷o̷g̷i̷e̷s̷,̷ ̷d̷a̷t̷a̷ ̷s̷t̷r̷u̷c̷t̷u̷r̷e̷s̷,̷ ̷a̷l̷g̷o̷r̷i̷t̷h̷m̷s̷,̷ ̷a̷n̷d̷ ̷d̷e̷s̷i̷g̷n̷ ̷p̷a̷t̷t̷e̷r̷n̷s̷.̷
 
-## Skill Set 💪
-<div align="left">
-  
-  💻 Front-end technologies: JavaScript, React.js, Vue.js, Next.js, Tailwind, Shadcn UI
-  
-  🖥️ Back-end technologies: Node.js, Python, TypeScript
-  
-  🗄️ Database management: MySQL, MongoDB, Firebase, PostgreSQL
-  
-  🛠️ Web development frameworks: Express, Nest.js
-  
-  🔗 Version control systems: Git
-  
-  🌐 API design and development
-  
-  💾 Server and deployment: AWS, Heroku, DigitalOcean
-  
-  📱 Responsive design and cross-browser compatibility
-  
-  💬 Knowledge of RESTful services
-  
-  🔒 Understanding of security principles and implementation
-  
-  🧪 Agile software development methodologies
-  
-  💡 Good understanding of data structures, algorithms, and design patterns.
-</div>
-
-## Technologies I have worked with 👨🏻‍💻
+## Okay, long story short... I'm a Full-Stack
 <p align="left">
   <img src="tech/js.svg" alt="javascript" />
   <img src="tech/ts.svg" alt="typescript" />
