@@ -3,8 +3,8 @@
 </div>
 
 ## Hey! I'm so glad you're here! 🙏😇
-O̶v̶e̶r̶ ̶t̶h̶e̶ ̶p̶a̶s̶t̶ ̶f̶i̶v̶e̶ ̶y̶e̶a̶r̶s̶,̶ ̶I̶'̶v̶e̶ ̶g̶a̶i̶n̶e̶d̶ ̶e̶x̶t̶e̶n̶s̶i̶v̶e̶ ̶e̶x̶p̶e̶r̶i̶e̶n̶c̶e̶ ̶i̶n̶ ̶v̶a̶r̶i̶o̶u̶s̶ ̶w̶e̶b̶ ̶t̶e̶c̶h̶n̶o̶l̶o̶g̶i̶e̶s̶ ̶a̶n̶d̶ ̶p̶r̶o̶g̶r̶a̶m̶m̶i̶n̶g̶ ̶l̶a̶n̶g̶u̶a̶g̶e̶s̶,̶ ̶w̶o̶r̶k̶i̶n̶g̶ ̶w̶i̶t̶h̶ ̶t̶h̶r̶e̶e̶ ̶c̶o̶m̶p̶a̶n̶i̶e̶s̶ ̶a̶n̶d̶ ̶a̶s̶ ̶a̶ ̶f̶r̶e̶e̶l̶a̶n̶c̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶r̶.̶
-̶I̶ ̶p̶o̶s̶s̶e̶s̶s̶ ̶a̶ ̶c̶o̶m̶p̶r̶e̶h̶e̶n̶s̶i̶v̶e̶ ̶s̶k̶i̶l̶l̶s̶e̶t̶ ̶e̶n̶c̶o̶m̶p̶a̶s̶s̶i̶n̶g̶ ̶v̶a̶r̶i̶o̶u̶s̶ ̶f̶r̶o̶n̶t̶-̶e̶n̶d̶ ̶a̶n̶d̶ ̶b̶a̶c̶k̶-̶e̶n̶d̶ ̶t̶e̶c̶h̶n̶o̶l̶o̶g̶i̶e̶s̶,̶ ̶d̶a̶t̶a̶b̶a̶s̶e̶ ̶m̶a̶n̶a̶g̶e̶m̶e̶n̶t̶,̶ ̶w̶e̶b̶ ̶d̶e̶v̶e̶l̶o̶p̶m̶e̶n̶t̶ ̶f̶r̶a̶m̶e̶w̶o̶r̶k̶s̶,̶ ̶v̶e̶r̶s̶i̶o̶n̶ ̶c̶o̶n̶t̶r̶o̶l̶ ̶s̶y̶s̶t̶e̶m̶s̶,̶ ̶A̶P̶I̶ ̶d̶e̶s̶i̶g̶n̶,̶ ̶s̶e̶r̶v̶e̶r̶ ̶d̶e̶p̶l̶o̶y̶m̶e̶n̶t̶,̶ ̶r̶e̶s̶p̶o̶n̶s̶i̶v̶e̶ ̶d̶e̶s̶i̶g̶n̶,̶ ̶R̶E̶S̶T̶f̶u̶l̶ ̶s̶e̶r̶v̶i̶c̶e̶s̶,̶ ̶s̶e̶c̶u̶r̶i̶t̶y̶ ̶p̶r̶i̶n̶c̶i̶p̶l̶e̶s̶,̶ ̶a̶g̶i̶l̶e̶ ̶m̶e̶t̶h̶o̶d̶o̶l̶o̶g̶i̶e̶s̶,̶ ̶d̶a̶t̶a̶ ̶s̶t̶r̶u̶c̶t̶u̶r̶e̶s̶,̶ ̶a̶l̶g̶o̶r̶i̶t̶h̶m̶s̶,̶ ̶a̶n̶d̶ ̶d̶e̶s̶i̶g̶n̶ ̶p̶a̶t̶t̶e̶r̶n̶s̶.̶
+̷O̷v̷e̷r ̷t̷h̷e ̷p̷a̷s̷t ̷f̷i̷v̷e ̷y̷e̷a̷r̷s, ̷I̷'̷v̷e ̷g̷a̷i̷n̷e̷d ̷e̷x̷t̷e̷n̷s̷i̷v̷e ̷e̷x̷p̷e̷r̷i̷e̷n̷c̷e ̷i̷n ̷v̷a̷r̷i̷o̷u̷s ̷w̷e̷b t̷e̷c̷h̷n̷o̷l̷o̷g̷i̷es ̷a̷n̷d ̷p̷r̷o̷g̷r̷a̷m̷m̷i̷n̷g l̷a̷n̷g̷u̷a̷g̷es, w̷o̷r̷k̷i̷ng̷ w̷i̷t̷h t̷h̷r̷e̷e c̷o̷m̷p̷a̷n̷i̷e̷s a̷n̷d a̷s ̷a ̷f̷r̷e̷e̷l̷a̷n̷c̷e d̷e̷v̷e̷l̷o̷p̷er.
+̷I p̷o̷s̷s̷e̷s̷s ̷a ̷c̷o̷m̷p̷r̷e̷h̷e̷n̷s̷i̷v̷e ̷s̷k̷i̷l̷l̷s̷e̷t ̷e̷n̷c̷o̷m̷p̷a̷s̷s̷i̷n̷g̷ ̷v̷a̷r̷i̷o̷u̷s̷ ̷f̷r̷o̷n̷t̷-̷e̷n̷d̷ ̷a̷n̷d̷ ̷b̷a̷c̷k̷-̷e̷n̷d̷ ̷t̷e̷c̷h̷n̷o̷l̷o̷g̷i̷e̷s̷,̷ ̷d̷a̷t̷a̷b̷a̷s̷e̷ ̷m̷a̷n̷a̷g̷e̷m̷e̷n̷t̷,̷ ̷w̷e̷b̷ ̷d̷e̷v̷e̷l̷o̷p̷m̷e̷n̷t̷ ̷f̷r̷a̷m̷e̷w̷o̷r̷k̷s̷,̷ ̷v̷e̷r̷s̷i̷o̷n̷ ̷c̷o̷n̷t̷r̷o̷l̷ ̷s̷y̷s̷t̷e̷m̷s̷,̷ ̷A̷P̷I̷ ̷d̷e̷s̷i̷g̷n̷,̷ ̷s̷e̷r̷v̷e̷r̷ ̷d̷e̷p̷l̷o̷y̷m̷e̷n̷t̷,̷ ̷r̷e̷s̷p̷o̷n̷s̷i̷v̷e̷ ̷d̷e̷s̷i̷g̷n̷,̷ ̷R̷E̷S̷T̷f̷u̷l̷ ̷s̷e̷r̷v̷i̷c̷e̷s̷,̷ ̷s̷e̷c̷u̷r̷i̷t̷y̷ ̷p̷r̷i̷n̷c̷i̷p̷l̷e̷s̷,̷ ̷a̷g̷i̷l̷e̷ ̷m̷e̷t̷h̷o̷d̷o̷l̷o̷g̷i̷e̷s̷,̷ ̷d̷a̷t̷a̷ ̷s̷t̷r̷u̷c̷t̷u̷r̷e̷s̷,̷ ̷a̷l̷g̷o̷r̷i̷t̷h̷m̷s̷,̷ ̷a̷n̷d̷ ̷d̷e̷s̷i̷g̷n̷ ̷p̷a̷t̷t̷e̷r̷n̷s̷.̷
 
 ## Okay, long story short... I'm a Full-Stack
 <p align="left">
