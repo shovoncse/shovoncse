@@ -2,9 +2,9 @@
   <img src="shovan.svg" alt="Shovan Das" />
 </div>
 
-Over the past five years, I've gained extensive experience in various web technologies and programming languages, working with three companies and as a freelance developer. I possess a comprehensive skillset encompassing various front-end and back-end technologies, database management, web development frameworks, version control systems, API design, server deployment, responsive design, RESTful services, security principles, agile methodologies, data structures, algorithms, and design patterns.
+With 5+ years of experience breaking and building things across 3 companies and freelancing, I’ve mastered the art of full-stack development—from front-end to back-end, APIs, and everything in between—without (too many) crashes! 😂 😂
 
-#### Hey there! To cut a long story short, I'm a Full-Stack developer and I'm glad to see you here!
+### Think of me as a digital Swiss Army knife, ready to tackle any coding crisis! 😎 😎
 <p align="left">
   <img src="tech/js.svg" alt="javascript" />
   <img src="tech/ts.svg" alt="typescript" />
