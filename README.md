@@ -2,24 +2,24 @@
   <img src="shovan.svg" alt="Shovan Das" />
 </div>
 
-With 8+ years of experience breaking and building things across 4 companies and freelancing, I’ve mastered the art of full-stack development—from front-end to back-end, APIs, and everything in between—without (too many) crashes! 😂 😂
+With 8+ years of experience breaking and building things across 4 companies and freelancing, I’ve mastered the art of full-stack development from front-end to back-end, APIs, and everything in between without (too many) crashes! 😂 😂
 
 ### Think of me as a digital Swiss Army knife, ready to tackle any coding crisis! 😎 😎
 <p align="left">
   <img src="tech/js.svg" alt="javascript" />
   <img src="tech/ts.svg" alt="typescript" />
   <img src="tech/react.svg" alt="reactjs" />
-  <img src="tech/postman.svg" alt="postman" />
+  <img src="tech/python.svg" alt="python" />
+  <img src="tech/linux.svg" alt="linux" />
+  <img src="tech/aws.svg" alt="aws" />
+  <img src="tech/docker.svg" alt="docker" />
+  <img src="tech/java.svg" alt="java" />
   <img src="tech/vuejs.svg" alt="vuejs" />
   <img src="tech/tailwind.svg" alt="tailwind" />
   <img src="tech/nodejs.svg" alt="nodejs" />
   <img src="tech/mongodb.svg" alt="mongodb" />
   <img src="tech/graphql.svg" alt="graphql" />
-  <img src="tech/aws.svg" alt="aws" />
-  <img src="tech/docker.svg" alt="docker" />
-  <img src="tech/java.svg" alt="java" />
-  <img src="tech/python.svg" alt="python" />
-  <img src="tech/linux.svg" alt="linux" />
+  <img src="tech/postman.svg" alt="postman" />
 </p>
 
 
@@ -28792,3 +28792,4 @@ With 8+ years of experience breaking and building things across 4 companies and 
 
 
 <!-- Author: Shovan Kumar Das - github.com/shovoncse -->
+
