@@ -2,7 +2,7 @@
   <img src="shovan.svg" alt="Shovan Das" />
 </div>
 
-With 8+ years of experience breaking and building things across 4 companies and freelancing, I’ve mastered the art of full-stack development from front-end to back-end, APIs, and everything in between without (too many) crashes! 😂 😂
+With 9+ years of experience breaking and building things across 4 companies and freelancing, I’ve mastered the art of full-stack development from front-end to back-end, APIs, and everything in between without (too many) crashes! 😂 😂
 
 ### Think of me as a digital Swiss Army knife, ready to tackle any coding crisis! 😎 😎
 <p align="left">
